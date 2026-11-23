@@ -1,1 +1,3 @@
 makan = "nasi"
+
+minum = "arak"
